@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodFarm", "FoodFarm.csproj", "{8F2035DA-36C0-4F74-B550-5DF840EB14DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurgerBarn", "..\..\App Dev 1\Burger Barn\BurgerBarn.csproj", "{A8276740-61EE-4A9C-B59C-67A1C2E1AD47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8F2035DA-36C0-4F74-B550-5DF840EB14DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F2035DA-36C0-4F74-B550-5DF840EB14DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F2035DA-36C0-4F74-B550-5DF840EB14DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8276740-61EE-4A9C-B59C-67A1C2E1AD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8276740-61EE-4A9C-B59C-67A1C2E1AD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8276740-61EE-4A9C-B59C-67A1C2E1AD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8276740-61EE-4A9C-B59C-67A1C2E1AD47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
