@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodFarm", "FoodFarm.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "..\..\App Dev 1\calculator-inator\Calculator.csproj", "{075FDFF7-D82F-4309-8D4A-39ECED2F8A56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurgerBarn", "..\..\App Dev 1\Burger Barn\BurgerBarn.csproj", "{B9A889F4-3CC0-4FFE-A516-0ECFDFF4DC6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{075FDFF7-D82F-4309-8D4A-39ECED2F8A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{075FDFF7-D82F-4309-8D4A-39ECED2F8A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{075FDFF7-D82F-4309-8D4A-39ECED2F8A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A889F4-3CC0-4FFE-A516-0ECFDFF4DC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A889F4-3CC0-4FFE-A516-0ECFDFF4DC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A889F4-3CC0-4FFE-A516-0ECFDFF4DC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A889F4-3CC0-4FFE-A516-0ECFDFF4DC6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
